@@ -1,2 +1,2 @@
-# Alurabook
-projeto mobile-first alurabook
+# Alurabooks
+projeto mobile-first alurabooks
